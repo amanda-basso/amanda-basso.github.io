@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Amanda Basso</title>
+    <link>https://amanda-basso.github.io/categories/</link>
+    <description>Recent content in Categories on Amanda Basso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Mar 2021 23:42:08 -0300</lastBuildDate><atom:link href="https://amanda-basso.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cats</title>
+      <link>https://amanda-basso.github.io/categories/cats/</link>
+      <pubDate>Mon, 29 Mar 2021 23:42:08 -0300</pubDate>
+      
+      <guid>https://amanda-basso.github.io/categories/cats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crypto</title>
+      <link>https://amanda-basso.github.io/categories/crypto/</link>
+      <pubDate>Mon, 29 Mar 2021 23:42:08 -0300</pubDate>
+      
+      <guid>https://amanda-basso.github.io/categories/crypto/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

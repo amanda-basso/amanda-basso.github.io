@@ -6,7 +6,16 @@
     <description>Recent content in crypto on Amanda Basso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Mar 2021 23:42:08 -0300</lastBuildDate><atom:link href="https://amanda-basso.github.io/categories/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 19:42:08 -0300</lastBuildDate><atom:link href="https://amanda-basso.github.io/categories/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why post-quantum cryptography</title>
+      <link>https://amanda-basso.github.io/posts/why-post-quantum-crypto/</link>
+      <pubDate>Thu, 01 Apr 2021 19:42:08 -0300</pubDate>
+      
+      <guid>https://amanda-basso.github.io/posts/why-post-quantum-crypto/</guid>
+      <description>&lt;p&gt;Hi everyone! In this post I talk a little about why is important to start thinking about post-quantum cryptographic algorithms in order to keep our security up-to-date with the development of quantum computers. Hope you like!&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Hello Word!</title>
       <link>https://amanda-basso.github.io/posts/hello-word/</link>

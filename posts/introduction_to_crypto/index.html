@@ -64,6 +64,15 @@
 <h3 id="situation-2-eve-changes-the-content-andor-pretends-to-be-alice">Situation 2: Eve changes the content and/or pretends to be Alice</h3>
 <p>In this situation, Alice and Bob still want to communicate with each other, but instead of eavesdropping on the information, Eve changes the content and send to Bob as she was Alice.</p>
 <p><img src="../../images/Situation2.png" alt="image info" title="Situation 2: Eve changes the content and/or pretends to be Alice."></p>
+<p>The Situation 1 happens because, in that model, <strong>the messages are not private</strong>. On the Situation 2, <strong>the messages are not signed</strong>. We can provide solution for both situations using <strong>cryptography</strong>.</p>
+<h3 id="how-does-cryptography-work">How does Cryptography work?</h3>
+<p>It&rsquo;s pretty cool that we are able to make our messages private and signed with cryptography, even when our communication channel is not realiable. But how does it work?</p>
+<p>I personally believe that languages and forms of communication in general are some of the most incredible human inventions. They not only brought us to this very day, safe and sound from the nature&rsquo;s dangers, but also allowed us to express our most inner emotions and complex thoughts.</p>
+<p>And how cool is the fact that, once you&rsquo;ve learned a form of communication you <strong>cannot</strong> consciously go back to a state were you didn&rsquo;t know it. If you learnt how to speak Portuguese, and two people start a conversation in Portuguese in front of you, even if you try your best not to, you will understand them.</p>
+<p>So, if you want to send a secret message that is accessible to only the selected people, you would have to 1) create your own form of communication and teach the rules to those people or 2) pick a language that all of you already know and create a secret upon it. To encrypt a message aims make it comprehensible to only those that know the secret to decrypt it.</p>
+<h4 id="substitution-cipher">Substitution cipher</h4>
+<p>The secret behind the simplest form to cipher a text is to <strong>shift symbols</strong>. Given an alphabet of 26 letters (or symbols), you will have 25 different shifting possibilities. If we choose to make a shift of three letters, then A becomes D, B becomes E, and so on.
+For example, say we want to cipher the word <strong>CRYPTOGRAPHY</strong> by shifting letters by 3 positions. The result would be <strong>FUBSWRJUDSKB</strong>. The secret, in here, is to know that the letters are shifted by three positions and shift them back in order to understand the ciphered message.</p>
 </div>
 
 

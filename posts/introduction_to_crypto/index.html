@@ -73,11 +73,12 @@
 <p>So, if you want to send a secret message that is accessible to only the selected people, you would have to 1) create your own form of communication and teach the rules to those people or 2) pick a language that all of you already know and create a secret upon it. To encrypt a message aims make it comprehensible to only those that know the secret to decrypt it.</p>
 <h4 id="substitution-cipher">Substitution cipher</h4>
 <p>The secret behind the simplest form to cipher a text is to <strong>shift symbols</strong>. Given an alphabet of 26 letters (or symbols), you will have 25 different shifting possibilities. If we choose to make a shift of three letters, then A becomes D, B becomes E, and so on.</p>
+<p><img src="../../images/shifting.png" alt="image info" title="Correspondance between shifted letters in the original and the ciphered text."></p>
 <p>For example, say we want to cipher the word <strong>CRYPTOGRAPHY</strong> by shifting letters by 3 positions. The result would be <strong>FUBSWRJUDSKB</strong>. The secret, in here, is to know that the letters are shifted by three positions and shift them back in order to understand the ciphered message.</p>
 <p>This form of cipher a text is called <strong>substitution cipher</strong>, as we are replacing alphabet symbols by others. However, is really simple to &ldquo;break&rdquo; this secret! As I mentioned above, if our message is written using an alphabet of 26 letters, there&rsquo;s only 25 shifting possibilities. In case Alice sends Bob a message ciphered using this method, in the worst case, Eve will have to try 25 times before cracking the message.</p>
 <h5 id="shifting-letters-to-decipher-a-message-is-too-easy"><strong>Shifting letters to decipher a message is too easy!</strong></h5>
-<p>There&rsquo;s other form of substitution cipher that involves matching a given symbol in the original or <strong>plain text</strong> to a random symbol in the ciphered text. We would have to keep a table or a similar structure to verify the correspondance between the letters in order to both cipher and decipher the message.</p>
-<p>That sounds a lot more work for Eve, since there&rsquo;s not just 25 possibilities, but</p>
+<p>There&rsquo;s other form of substitution cipher that involves matching a given symbol in the original text (also known as <strong>plain text</strong>) to a random symbol in the ciphered text. We would have to keep a table or a similar structure to verify the correspondance between the letters in order to both cipher and decipher the message.</p>
+<p>That sounds a lot more work for Eve, since there&rsquo;s not just 25 possibilities, but 26! ways to substitute for an alphabet of 26 letters.</p>
 </div>
 
 

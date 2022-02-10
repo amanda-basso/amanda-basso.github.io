@@ -6,22 +6,40 @@
     <description>Recent content in Categories on Amanda Basso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Feb 2022 18:42:08 -0300</lastBuildDate><atom:link href="https://amanda-basso.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Feb 2022 18:42:08 -0300</lastBuildDate><atom:link href="https://amanda-basso.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>IAM</title>
-      <link>https://amanda-basso.github.io/categories/iam/</link>
-      <pubDate>Wed, 02 Feb 2022 18:42:08 -0300</pubDate>
+      <title>Cloud computing</title>
+      <link>https://amanda-basso.github.io/categories/cloud-computing/</link>
+      <pubDate>Wed, 09 Feb 2022 18:42:08 -0300</pubDate>
       
-      <guid>https://amanda-basso.github.io/categories/iam/</guid>
+      <guid>https://amanda-basso.github.io/categories/cloud-computing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>IT security</title>
-      <link>https://amanda-basso.github.io/categories/it-security/</link>
-      <pubDate>Wed, 02 Feb 2022 18:42:08 -0300</pubDate>
+      <title>IaaS</title>
+      <link>https://amanda-basso.github.io/categories/iaas/</link>
+      <pubDate>Wed, 09 Feb 2022 18:42:08 -0300</pubDate>
       
-      <guid>https://amanda-basso.github.io/categories/it-security/</guid>
+      <guid>https://amanda-basso.github.io/categories/iaas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PaaS</title>
+      <link>https://amanda-basso.github.io/categories/paas/</link>
+      <pubDate>Wed, 09 Feb 2022 18:42:08 -0300</pubDate>
+      
+      <guid>https://amanda-basso.github.io/categories/paas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SaaS</title>
+      <link>https://amanda-basso.github.io/categories/saas/</link>
+      <pubDate>Wed, 09 Feb 2022 18:42:08 -0300</pubDate>
+      
+      <guid>https://amanda-basso.github.io/categories/saas/</guid>
       <description></description>
     </item>
     

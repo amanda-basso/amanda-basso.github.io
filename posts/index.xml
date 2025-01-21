@@ -8,39 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Feb 2022 18:42:08 -0300</lastBuildDate><atom:link href="https://amanda-basso.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cloud computing models</title>
-      <link>https://amanda-basso.github.io/posts/cloud-computing-models/</link>
-      <pubDate>Wed, 09 Feb 2022 18:42:08 -0300</pubDate>
+      <title>Trótula de Salerno</title>
+      <link>https://amanda-basso.github.io/posts/totrula-de-salerno/</link>
+      <pubDate>Tue, 21 Jan 2025 15:05:00 -0300</pubDate>
       
-      <guid>https://amanda-basso.github.io/posts/cloud-computing-models/</guid>
-      <description>&lt;p&gt;Hi everyone! In this post I briefly explain about the Cloud computing models. Hope you like!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Cryptography</title>
-      <link>https://amanda-basso.github.io/posts/introduction_to_crypto/</link>
-      <pubDate>Mon, 02 Aug 2021 18:42:08 -0300</pubDate>
-      
-      <guid>https://amanda-basso.github.io/posts/introduction_to_crypto/</guid>
-      <description>&lt;p&gt;Hi everyone! In this post I present a brief introduction to cryptography. Hope you like!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Why post-quantum cryptography</title>
-      <link>https://amanda-basso.github.io/posts/why-post-quantum-crypto/</link>
-      <pubDate>Thu, 01 Apr 2021 19:42:08 -0300</pubDate>
-      
-      <guid>https://amanda-basso.github.io/posts/why-post-quantum-crypto/</guid>
-      <description>&lt;p&gt;Hi everyone! In this post I talk a little about why is important to start thinking about post-quantum cryptographic algorithms in order to keep our security up-to-date with the development of quantum computers. Hope you like!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hello Word!</title>
-      <link>https://amanda-basso.github.io/posts/hello-word/</link>
-      <pubDate>Mon, 29 Mar 2021 23:42:08 -0300</pubDate>
-      
-      <guid>https://amanda-basso.github.io/posts/hello-word/</guid>
-      <description>&lt;p&gt;Hi everyone! This is my first blog post, and I&amp;rsquo;m planning to print some bits of my crypto, psychology, and physics studies. I also love talking about books and cats, so who knows, I might mix a little bit of everything in here. Hope you enjoy!&lt;/p&gt;</description>
+      <guid>https://amanda-basso.github.io/posts/totrula-de-salerno/</guid>
+      <description>&lt;p&gt;Hello everyone! This is the first post of a series of 30, as a personal challenge so I return my writing habit&lt;/p&gt;</description>
     </item>
     
   </channel>
